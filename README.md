@@ -1,0 +1,9 @@
+# nodejs
+function get
+![alt text](https://github.com/Haifa16/nodejs/blob/master/get.JPG)
+function post
+![alt text](https://github.com/Haifa16/nodejs/blob/master/post1.JPG)
+function put/update
+![alt text](https://github.com/Haifa16/nodejs/blob/master/put1.JPG)
+function delete
+![alt text](https://github.com/Haifa16/nodejs/blob/master/delete.JPG)
